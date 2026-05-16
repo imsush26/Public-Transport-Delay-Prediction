@@ -54,15 +54,15 @@ Performed:
 * Bivariate Analysis
 * Correlation Heatmap
 * Feature Importance Analysis
+  
 * 4️⃣ Model Building
-
 Implemented:
 
 * Linear Regression
 * Random Forest Regressor
 * XGBoost Regressor
+  
 * 5️⃣ Model Evaluation
-
 Models were evaluated using:
 
 * MAE (Mean Absolute Error)
@@ -70,10 +70,11 @@ Models were evaluated using:
 * R² Score
 
 * 📊 Model Performance
-Model	MAE	RMSE	R² Score
-* Linear Regression	5.44	6.83	0.45
+
+  Model	                  MAE 	RMSE	R² Score
+* Linear Regression     	5.44	6.83	0.45
 * Random Forest Regressor	4.59	5.61	0.63
-* XGBoost Regressor	4.65	5.67	0.62
+* XGBoost Regressor	      4.65	5.67	0.62
   
 🏆 Final Model Selection
 ✅ Selected Model: Random Forest Regressor
