@@ -71,11 +71,8 @@ Models were evaluated using:
 
 * 📊 Model Performance
 
-  Model	                  MAE 	RMSE	R² Score
-* Linear Regression     	5.44	6.83	0.45
-* Random Forest Regressor	4.59	5.61	0.63
-* XGBoost Regressor	      4.65	5.67	0.62
-  
+<img width="1410" height="112" alt="image" src="https://github.com/user-attachments/assets/80180d6f-2756-4655-9956-c5e58f080920" />
+
 🏆 Final Model Selection
 ✅ Selected Model: Random Forest Regressor
 
