@@ -39,24 +39,29 @@ The dataset contains:
 * actual_arrival_delay_min
 
 ⚙️ Project Workflow
+
 1️⃣ Data Collection & Understanding
 * Loaded and explored the dataset
 * Checked data types and missing values
+  
 2️⃣ Data Preprocessing
 * Handled missing values
 * Filled missing values in event_type with "None"
 * Encoded categorical variables using One-Hot Encoding
+  
 3️⃣ Exploratory Data Analysis (EDA)
 Performed:
 * Univariate Analysis
 * Bivariate Analysis
 * Correlation Heatmap
 * Feature Importance Analysis
+  
 4️⃣ Model Building
 Implemented:
 * Linear Regression
 * Random Forest Regressor
 * XGBoost Regressor
+  
 5️⃣ Model Evaluation
 Models were evaluated using:
 * MAE (Mean Absolute Error)
